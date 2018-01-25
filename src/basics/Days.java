@@ -6,6 +6,7 @@ public class Days {
 		String dayOfWeek="Tuesday";
 		System.out.println("What day is Today");
 		whatDay(dayOfWeek);
+		System.out.println("adding code to my project");
 		
 	}
 	
